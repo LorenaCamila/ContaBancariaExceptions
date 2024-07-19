@@ -1,0 +1,15 @@
+F:\BACKUP\Documents\Lorena Camila\Udemy\C# completo POO + projetos\programas\Secao11Exercicio\Secao11Exercicio\bin\Debug\net7.0\Secao11Exercicio.exe
+F:\BACKUP\Documents\Lorena Camila\Udemy\C# completo POO + projetos\programas\Secao11Exercicio\Secao11Exercicio\bin\Debug\net7.0\Secao11Exercicio.deps.json
+F:\BACKUP\Documents\Lorena Camila\Udemy\C# completo POO + projetos\programas\Secao11Exercicio\Secao11Exercicio\bin\Debug\net7.0\Secao11Exercicio.runtimeconfig.json
+F:\BACKUP\Documents\Lorena Camila\Udemy\C# completo POO + projetos\programas\Secao11Exercicio\Secao11Exercicio\bin\Debug\net7.0\Secao11Exercicio.dll
+F:\BACKUP\Documents\Lorena Camila\Udemy\C# completo POO + projetos\programas\Secao11Exercicio\Secao11Exercicio\bin\Debug\net7.0\Secao11Exercicio.pdb
+F:\BACKUP\Documents\Lorena Camila\Udemy\C# completo POO + projetos\programas\Secao11Exercicio\Secao11Exercicio\obj\Debug\net7.0\Secao11Exercicio.csproj.AssemblyReference.cache
+F:\BACKUP\Documents\Lorena Camila\Udemy\C# completo POO + projetos\programas\Secao11Exercicio\Secao11Exercicio\obj\Debug\net7.0\Secao11Exercicio.GeneratedMSBuildEditorConfig.editorconfig
+F:\BACKUP\Documents\Lorena Camila\Udemy\C# completo POO + projetos\programas\Secao11Exercicio\Secao11Exercicio\obj\Debug\net7.0\Secao11Exercicio.AssemblyInfoInputs.cache
+F:\BACKUP\Documents\Lorena Camila\Udemy\C# completo POO + projetos\programas\Secao11Exercicio\Secao11Exercicio\obj\Debug\net7.0\Secao11Exercicio.AssemblyInfo.cs
+F:\BACKUP\Documents\Lorena Camila\Udemy\C# completo POO + projetos\programas\Secao11Exercicio\Secao11Exercicio\obj\Debug\net7.0\Secao11Exercicio.csproj.CoreCompileInputs.cache
+F:\BACKUP\Documents\Lorena Camila\Udemy\C# completo POO + projetos\programas\Secao11Exercicio\Secao11Exercicio\obj\Debug\net7.0\Secao11Exercicio.dll
+F:\BACKUP\Documents\Lorena Camila\Udemy\C# completo POO + projetos\programas\Secao11Exercicio\Secao11Exercicio\obj\Debug\net7.0\refint\Secao11Exercicio.dll
+F:\BACKUP\Documents\Lorena Camila\Udemy\C# completo POO + projetos\programas\Secao11Exercicio\Secao11Exercicio\obj\Debug\net7.0\Secao11Exercicio.pdb
+F:\BACKUP\Documents\Lorena Camila\Udemy\C# completo POO + projetos\programas\Secao11Exercicio\Secao11Exercicio\obj\Debug\net7.0\Secao11Exercicio.genruntimeconfig.cache
+F:\BACKUP\Documents\Lorena Camila\Udemy\C# completo POO + projetos\programas\Secao11Exercicio\Secao11Exercicio\obj\Debug\net7.0\ref\Secao11Exercicio.dll
